@@ -1,0 +1,1 @@
+java -jar mainapp-all-0.1.jar
